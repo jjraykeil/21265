@@ -1,4 +1,4 @@
 # 21265
-Gary's Software Class Starter Code
+JJ Software Starter Code
 
-Link to github page: https://seattleacademy.github.io/21265/
+Link to github page: https://jjraykeil.github.io/21265/
